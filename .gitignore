@@ -1,0 +1,21 @@
+# Dataset
+data/
+*.npy
+*.png
+*.jpg
+
+# Python
+__pycache__/
+*.py[cod]
+*venv/
+.env
+
+# PyTorch & Model Weights
+*.pt
+*.pth
+weights/
+runs/
+
+# OS Files
+.DS_Store
+Thumbs.db
